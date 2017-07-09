@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springMVCT:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.likun.war">
+      <element id="artifact" artifact-name="springMVCT:war exploded" />
+    </root>
+  </artifact>
+</component>
